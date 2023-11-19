@@ -1,5 +1,8 @@
 # Сериализация Ссылок на Сцены в Unity
 
+![image](https://github.com/RimuruDev/Unity-SerializationSceneInEditor/assets/85500556/6bdfb05f-3a30-4f70-b97c-39087e27c904)
+![image](https://github.com/RimuruDev/Unity-SerializationSceneInEditor/assets/85500556/5b4d554f-bc5d-4405-aaba-7c2c02919c1c)
+
 ## Описание
 Данный проект представляет собой утилиту для Unity, позволяющую удобно сериализовать ссылки на сцены в инспекторе. Это достигается за счет использования пользовательского редактора, который облегчает выбор и хранение сцен в проекте Unity.
 
